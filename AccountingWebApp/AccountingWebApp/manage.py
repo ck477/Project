@@ -4,6 +4,9 @@ Command-line utility for administrative tasks.
 
 # For more information about this file, visit
 # https://docs.djangoproject.com/en/2.1/ref/django-admin/
+# current superuser:
+    chris
+    25d07z1993
 """
 
 import os
